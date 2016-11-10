@@ -1,2 +1,5 @@
 # IGWhomepage
-IG-W Homepage I12
+ 
+Hier findest du alle Übungen die ich im Fach IG-W bearbeiten werde...
+
+uebung1 = willkürliche Homepage

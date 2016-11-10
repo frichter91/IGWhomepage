@@ -1,0 +1,23 @@
+body {
+    background-color: #fff;
+    font-family: Calibri, Arial, Verdana, sans-serif;
+    font-size: 1em;
+}
+
+h1, h2, h3 {
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    color: #0165a3;
+}
+
+h1 {
+    font-size: 1.8em;
+}
+
+h2 {
+    font-size: 1.6em;
+}
+
